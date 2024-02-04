@@ -53,3 +53,16 @@ anotherName = "naveen"
 console.log(myName);
 console.log(anotherName);
 
+let userOne = {
+    email: "saurabhrawat776@gmail.com"
+    //upi: "user@ybl"
+}
+
+
+let userTwo = userOne
+
+userTwo.email = "saurabharawat1313@gmail.com"
+console.log(userOne.email);
+console.log(userTwo.email);
+
+
