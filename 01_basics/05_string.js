@@ -25,3 +25,5 @@ console.log(anotherString);
 const newStringOne = "   saurabh    "
 console.log(newStringOne);
 console.log(newStringOne.trim());
+const url = "https://psychic-disco-v6675j547796fx5gv.github.dev/"
+console.log(url.replace('disco','$'));
