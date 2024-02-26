@@ -20,8 +20,23 @@ sayMyNam()
 function addTwoNumbers(number1,number2){
     // let result = number1 + number2  
     // return result
-    return number1 + number2
+  //  return number1 + number2
 }
 const result = addTwoNumbers(4,5)
 // console.log("Result",result);
+
+function loginUserMessage(username = "naveen"){
+    if(username === undefined ){
+        console.log("Please enter username");
+        return
+
+    }
+    return  `${username} just logged in`
+    }
+
+    //console.log(loginUserMessage("saurabh"))
+    console.log(loginUserMessage("Ishan"))
+
+
+
 
