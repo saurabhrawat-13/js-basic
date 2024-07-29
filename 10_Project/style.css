@@ -24,3 +24,33 @@ header nav h1{
     letter-spacing: 1px;
     text-transform: uppercase;
 }
+
+header nav form{
+display: flex;
+justify-content: center;    
+}
+
+form input[type="text"]{
+    flex-grow: 1;
+    margin-right: 10px;
+}
+form input[type="text"],button
+[type="submit"] {
+    border: none;
+    font-size: 18px;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+@media screen and (max-width: 600px)
+ {header nav{
+    flex-direction: column;
+ }
+ header nav form{
+    width: 80%;
+    margin-top: 20px;
+ }
+    
+}
+    
+    
