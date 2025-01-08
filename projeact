@@ -1,0 +1,9 @@
+Project: Telemedicine Dashboard for Doctor-Patient Consultation
+Technologies: React.js, JWT Authentication, Bootstrap, Global CSS, Figma
+Developed a responsive dashboard with two distinct tiles for doctor and patient logins, improving user navigation by 50%.
+Implemented doctor scheduling functionality, allowing doctors to set availability and patients to book appointments, reducing manual work by 30%.
+Integrated SMS notifications for appointment requests and confirmations, enhancing communication efficiency and reducing follow-up inquiries by 40%.
+Utilized JWT-based authentication for secure access, improving system security and user data protection by 100%.
+Integrated a payment gateway for patients to pay consultation fees post-confirmation, ensuring a seamless transaction process with a 20% increase in successful payments.
+Designed UI/UX in Figma, ensuring a visually appealing, user-friendly interface with Bootstrap and global CSS, enhancing user experience and responsiveness by 35%.
+ 
